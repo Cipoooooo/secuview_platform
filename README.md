@@ -200,9 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: support@secuview.com
-- 📖 Documentation: [docs.secuview.com](https://docs.secuview.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/secuview-platform/issues)
+- 📧 Email: nazarenoscantamburlo@gmail.com
 
 ## 🙏 Acknowledgments
 
